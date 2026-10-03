@@ -161,14 +161,6 @@ Day 2 was implemented as an interactive notebook in which the signal parameters 
   </tr>
 </table>
 
-**Video demonstrations**
-
-| Parameter | Video                                  |
-|-----------|----------------------------------------|
-| Amplitude | [amplitude.mp4](media/day02/amplitude.mp4) |
-| Frequency | [frequency.mp4](media/day02/frequency.mp4) |
-| Phase     | [phase.mp4](media/day02/phase.mp4)         |
-
 ---
 
 ## Repository Structure
